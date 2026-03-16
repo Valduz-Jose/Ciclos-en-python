@@ -3,3 +3,8 @@ print("Ciclo For")
 cadena = "Hola Mundo"
 for letra in cadena:
   print(letra, end=" ")
+
+print("\n\nRecorriendo una lista de Frutas")
+frutas = ["Manzana", "Pera", "Naranja"]
+for fruta in frutas:
+  print(fruta, end= " ")
